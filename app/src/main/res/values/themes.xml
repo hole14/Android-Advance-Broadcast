@@ -6,4 +6,6 @@
     </style>
 
     <style name="Theme.MyBroadcastReceiver" parent="Base.Theme.MyBroadcastReceiver" />
+    
+    <style name="Theme.AppCompat.Dialog" parent="Theme.AppCompat.Light.Dialog"/>
 </resources>
